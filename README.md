@@ -42,7 +42,7 @@ python train_phone_finder.py ~/find_phone --render 1
 python find_phone.py [path_to_test_image]
 ```
 
-![11](/home/wes/Documents/Chen-Weizhe/find_phone_test_images/11.jpg)
+![11](./find_phone_test_images/11.jpg)
 
 We added some ``homemade'' images for testing. Take this image for example, we find the phone by the following command:
 
@@ -52,4 +52,4 @@ python find_phone.py ./find_phone_test_images/11.jpg --render 1
 
 We will see the following phone locating process and the estimated position 0.3869 0.4617.
 
-![demo](/home/wes/Documents/Chen-Weizhe/demo.gif)
+![demo](demo.gif)
